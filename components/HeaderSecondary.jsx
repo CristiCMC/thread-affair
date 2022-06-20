@@ -57,8 +57,6 @@ export default function HeaderSecondary() {
           </li>
         </ul>
       </div>
-
-
     </section>
   );
 }
